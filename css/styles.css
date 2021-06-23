@@ -1,28 +1,30 @@
 body {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif ;
+    background-color: white;
 }
 
 h1, h2, h3 {
     font-family: "Noto+Sans", sans-serif;
+   
 }
+
+
+
 
 h2 {
-    color: #3046C5;
-}
-
-header h2 {
-    color: #CEC8FF;
+    color: #000002;
 }
 
 footer {
-    background-image: linear-gradient(#CEC8FF, white);
+    background-color: white;
     padding: 20px 0;
 }
 
 .jumbotron {
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    
     color: white;
+    
 }
 
 .row-content {
@@ -30,3 +32,11 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+.navbar {
+    background-color: white;
+}
+
+.jumbotron {
+    margin: 0;
+}
+
