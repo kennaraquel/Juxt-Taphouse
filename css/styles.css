@@ -5,15 +5,14 @@ body {
 
 h1, h2, h3 {
     font-family: "Noto+Sans", sans-serif;
+   
 }
+
+
+
 
 h2 {
-    color: #3046C5;
-}
-
-
-header h2 {
-    color: #CEC8FF;
+    color: #000002;
 }
 
 footer {
